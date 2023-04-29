@@ -1,3 +1,3 @@
 # My personal website
 
-Link - osaaa.github.io
+Link - https://osaaa.github.io/personal-website/
