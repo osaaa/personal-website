@@ -55,6 +55,8 @@
 @media only screen and (max-width: 767px) {
 	.hero-container .text {
 		font-size: 110%;
+		width: 100%;
+		padding: 10px;
 	}
 }
 
@@ -83,6 +85,8 @@
 
 	.services .box {
 		margin-right: 5%;
-		width: 300px;
+		/* width: 300px; */
+		width: 100%;
+		padding: 10px;
 	}
 }
