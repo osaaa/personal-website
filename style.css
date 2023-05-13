@@ -138,7 +138,21 @@ header nav .top-nav-container {
 	/* justify-content: center; */
 }
 
-#intro h4 {
+.resumepdf-container h1 {
+	color: #ff4800;
+	justify-content: center;
+	align-items: center;
+}
+
+#resume-header {
+	width: 30%;
+	border: solid #ccc;
+	border-radius: 20px;
+	flex-direction: column;
+	padding: 10px;
+	margin-bottom: 40px;
+}
+.resume-container #intro h4 {
 	margin-right: 20px;
 }
 #title-div p::after {
@@ -221,7 +235,14 @@ nav ul {
 	gap: 1em;
 	margin-top: 20px;
 }
-
+#home-anchor {
+	font-size: 20px;
+	margin-top: 20px;
+	width: 15%;
+	border: solid #ccc;
+	border-radius: 20px;
+	padding: 10px;
+}
 /*Services*/
 .services {
 	display: flex;
