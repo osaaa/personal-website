@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1440px) {
+@media only screen and (min-width: 1201px) {
 	.services .box {
 		margin-right: 5%;
 		width: 400px;
@@ -38,22 +38,13 @@
 		margin-bottom: 50px;
 	}
 
-	#name-intro2 {
+	#name-intro1 {
 		display: none;
 	}
 }
 
 /*Small tablet to big tablet: 768px - 1023px*/
 @media only screen and (max-width: 1023px) {
-	.portfolio .row {
-		flex-direction: column;
-	}
-
-	.portfolio-item {
-		width: 100%;
-		max-width: 65%;
-	}
-
 	.services .container {
 		flex-direction: column;
 	}
@@ -62,9 +53,9 @@
 		display: none;
 	}
 
-	/* #africanprogrammer {
+	#africanprogrammer {
 		display: none;
-	} */
+	}
 }
 
 /*Small phones to small tablet: 481px - 767px*/
