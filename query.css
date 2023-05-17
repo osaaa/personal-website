@@ -38,7 +38,8 @@
 		margin-bottom: 50px;
 	}
 
-	#name-intro1 {
+	#name-intro1,
+	#hello {
 		display: none;
 	}
 }
@@ -49,7 +50,8 @@
 		flex-direction: column;
 	}
 
-	#name-intro1 {
+	#name-intro1,
+	#hello {
 		display: none;
 	}
 
@@ -66,7 +68,8 @@
 		padding: 10px;
 	}
 
-	#name-intro1 {
+	#name-intro1,
+	#hello {
 		display: none;
 	}
 
@@ -105,7 +108,8 @@
 		padding: 10px;
 	}
 
-	#name-intro1 {
+	#name-intro1,
+	#hello {
 		display: none;
 	}
 
