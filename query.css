@@ -76,6 +76,10 @@
 	#africanprogrammer {
 		display: none;
 	}
+
+	#name-intro2 {
+		align-items: center;
+	}
 }
 
 /*Small phones from 0-480px*/
