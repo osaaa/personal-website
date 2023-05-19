@@ -88,6 +88,10 @@
 		width: 100%;
 	}
 
+	#intro{
+		font-size: 160%;
+	}
+
 	nav {
 		font-size: 100%;
 	}
@@ -120,4 +124,9 @@
 	#africanprogrammer {
 		display: none;
 	}
+
+	#github-stats img{
+		width:100%;
+	}
+	
 }
