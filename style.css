@@ -238,10 +238,15 @@ nav ul {
 #home-anchor {
 	font-size: 20px;
 	margin-top: 20px;
-	width: 10%;
+	width: 30%;
 	border: solid #ccc;
 	border-radius: 20px;
 	padding: 10px;
+	text-align: center;
+}
+
+#home-anchor a:hover {
+	font-size: 30px;
 }
 /*Services*/
 .services {
