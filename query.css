@@ -128,5 +128,10 @@
 	#github-stats img{
 		width:100%;
 	}
+
+	#title-content{
+		outline: red solid 10px;
+		font: 1em sans-serif;
+	}
 	
 }
